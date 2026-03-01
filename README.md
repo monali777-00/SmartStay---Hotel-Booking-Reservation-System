@@ -1,4 +1,4 @@
-# 🏨 Scalable Hotel Booking System (SpringBoot Microservices)
+# 🏨 SmartStay - Scalable Online Hotel Booking & Reservation System
 
 A Spring Boot REST API based backend application for an Online Hotel Booking System.  
 This application allows Admins, Customers, and Hotels to manage bookings, rooms, and reservations efficiently.
