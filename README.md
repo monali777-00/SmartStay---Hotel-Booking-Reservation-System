@@ -1,4 +1,4 @@
-# 🏨 Online Hotel Booking Platform (StayWell)
+# 🏨 Scalable Hotel Booking System (SpringBoot Microservices)
 
 A Spring Boot REST API based backend application for an Online Hotel Booking System.  
 This application allows Admins, Customers, and Hotels to manage bookings, rooms, and reservations efficiently.
